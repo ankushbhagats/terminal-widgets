@@ -10,5 +10,5 @@ Note : [Termux-API](https://play.google.com/store/apps/details?id=com.termux.api
 ```
 git clone https://github.com/ankushbhagats/Termux-dotfiles
 cd Termux-dotfiles
-./setup install <weather location>
+./setup install
 ```
